@@ -7,3 +7,5 @@
 Scaffold-DbContext "Data Source=127.0.0.1;database=JobRecruitment;uid=sa;pwd=123456" "Microsoft.EntityFrameworkCore.SqlServer" -OutputDir Entities
 ```
 ![生成Entities](https://github.com/RanGuMo/JobRecruitmentDemo/blob/master/JobRecruitmentDemo/Images/1657807902444.jpg)
+
+
